@@ -3,7 +3,7 @@
 [![npm version](https://badge.fury.io/js/graphql-tools.svg)](https://badge.fury.io/js/graphql-tools)
 [![Build Status](https://travis-ci.org/apollographql/graphql-tools.svg?branch=master)](https://travis-ci.org/apollographql/graphql-tools)
 [![Coverage Status](https://coveralls.io/repos/github/apollographql/graphql-tools/badge.svg?branch=master)](https://coveralls.io/github/apollographql/graphql-tools?branch=master)
-[![Get on Slack](https://img.shields.io/badge/slack-join-orange.svg)](http://www.apollostack.com/#slack) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/apollostack--graphql-tools.svg)](https://www.staging.guardrails.io)
+[![Get on Slack](https://img.shields.io/badge/slack-join-orange.svg)](http://www.apollostack.com/#slack) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/apollostack--graphql-tools.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/apollostack--graphql-tools.svg)](https://www.guardrails.io)
 
 This package provides a few useful ways to create a GraphQL schema:
 
